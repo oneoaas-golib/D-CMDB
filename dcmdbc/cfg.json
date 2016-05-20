@@ -1,0 +1,10 @@
+{
+    "debug": true,
+    "hostname": "",
+    "server": "20.26.17.105:8001",
+    "interval": 3,
+    "http": {
+        "enabled": true,
+        "listen": "0.0.0.0:2001"
+    }
+}
